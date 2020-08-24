@@ -23,8 +23,6 @@ I am Shaik Shameer, am a graduate in Mechanical Engineering from Sir Vishveshwar
   </a>
 </p>
 
-💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/shaik4182/shaik4182/master/svg/twitter.svg" >](https://twitter.com/Shaik23Shameer/)
-
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=shaik4182&&show_icons=true&theme=radical"/>
